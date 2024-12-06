@@ -1,0 +1,8 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/sinusoid_stretching/480p15/partial_movie_files/SinusoidFrequencyDemo/1185818338_2471640987_223132457.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/sinusoid_stretching/480p15/partial_movie_files/SinusoidFrequencyDemo/624642324_3890345977_1849745307.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/sinusoid_stretching/480p15/partial_movie_files/SinusoidFrequencyDemo/624642324_1905460731_2259578810.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/sinusoid_stretching/480p15/partial_movie_files/SinusoidFrequencyDemo/624642324_3890345977_702344418.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/sinusoid_stretching/480p15/partial_movie_files/SinusoidFrequencyDemo/624642324_1544051284_3378978218.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/sinusoid_stretching/480p15/partial_movie_files/SinusoidFrequencyDemo/624642324_3890345977_942443958.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/sinusoid_stretching/480p15/partial_movie_files/SinusoidFrequencyDemo/624642324_672564512_3215457411.mp4'

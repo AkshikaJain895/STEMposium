@@ -1,0 +1,12 @@
+# This file is used internally by FFMPEG.
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/vector/1080p60/partial_movie_files/VectorDecomposition3D/467829709_1009244822_1054834973.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/vector/1080p60/partial_movie_files/VectorDecomposition3D/1286222275_2190797075_2020238712.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/vector/1080p60/partial_movie_files/VectorDecomposition3D/1286222275_1986457509_2098097040.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/vector/1080p60/partial_movie_files/VectorDecomposition3D/1286222275_325070693_2753825048.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/vector/1080p60/partial_movie_files/VectorDecomposition3D/1286222275_3494816192_4242640827.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/vector/1080p60/partial_movie_files/VectorDecomposition3D/1286222275_892911747_2660205410.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/vector/1080p60/partial_movie_files/VectorDecomposition3D/1286222275_3438219438_631829896.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/vector/1080p60/partial_movie_files/VectorDecomposition3D/1286222275_3896848690_4131132508.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/vector/1080p60/partial_movie_files/VectorDecomposition3D/1286222275_1107425787_3615950417.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/vector/1080p60/partial_movie_files/VectorDecomposition3D/1286222275_766490860_1325840546.mp4'
+file 'file:/Users/akshikajain/Desktop/Winter Projects/STEMposium/media/videos/vector/1080p60/partial_movie_files/VectorDecomposition3D/1286222275_3494816192_3175345657.mp4'
